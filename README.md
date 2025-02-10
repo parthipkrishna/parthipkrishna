@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,Reactjs,Javascript,Python**
+- 🌱 I’m currently learning **HTML,CSS,Reactjs,Javascript,Bootstrap,Python,Laravel,php,mysql**
 
 - 📫 How to reach me **parthipkrishna2255@gmail.com**
 
